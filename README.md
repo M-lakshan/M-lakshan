@@ -1,7 +1,7 @@
 ## Yellowh, I'm Lakshan 👋😃
 
 <section style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 5px;">
-<div style="text-indent: 50px; padding: 20px; max-width: 400px;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate in UOC-Sri Lanka. Currently I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that I generally developing my <b>Application Development</b> & <b>Web Designing</b> skills that mostly based on GUI or UI Designs.</div>
+<div style="text-indent: 50px; padding: 20px; max-width: 415px; min-width: 300px;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate in UOC-Sri Lanka. Currently I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that I generally developing my <b>Application Development</b> & <b>Web Designing</b> skills that mostly based on GUI or UI Designs.</div>
 <picture>
 <source 
     srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight"
@@ -22,7 +22,7 @@
 
 - 🔭 Currently I'm focusing on doing the **Back-End** development for my designs.
 
-- <p style="display: flex; align-items: center; flex-wrap: wrap;">🌱Also, I’m still learning&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img style="border-radius: 50%; width: 28px; height: 26px;" src="https://img.shields.io/badge/C%23-239120?&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius: 3px;"/>&nbsp;+&nbsp;<b>MVC-Approach</b>&nbsp;for web development.
+- <p style="display: flex; align-items: center; flex-direction: row; flex-wrap: wrap;">🌱Also, I’m still learning&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img style="border-radius: 50%; width: 28px; height: 26px;" src="https://img.shields.io/badge/C%23-239120?&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius: 3px;"/>&nbsp;+&nbsp;<b>MVC-Approach</b>&nbsp;for web development.
 
 <section style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 5px; max-width: 1000px;">
 <ul style="padding: 20px; max-width:400px; margin-right: 20px;">
@@ -53,6 +53,7 @@
 ### Here are few of My Recent Projects
 
 <section style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto; align-content: center; justify-items: center; grid-gap: 2px; margin-top: 10px; max-width: 1000px;">
+<div>
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
@@ -64,6 +65,13 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
 </picture>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/M-lakshan/web_game_Tic-Tac-Toe?color=red&style=plastic)
+</div>
+<div>
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
@@ -75,13 +83,19 @@
   />
   <img src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
 </picture>
+
+![GitHub repo size](https://img.shields.io/github/repo-size/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/M-lakshan/web_game_Tic-Tac-Toe?color=red&style=plastic)
+</div>
 </section>
 
 <p style="marign: 20px 0px;">&nbsp;</p>
 
 ### About Me
 
-<section style="display: flex; align-items: center; justify-content: space-around; flex-wrap: wrap; margin-top: 10px; max-width: 1000px;">
+<section style="display: flex; align-items: center; justify-content: space-around; flex-direction: row; flex-wrap: wrap; margin-top: 10px; max-width: 1000px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan"/>
 <ul style="padding: 20px; max-width:400px; margin-right: 20px;">
 <span style="font-size: large;">•&nbsp;</span>⚡ Look me up on ...<ul>
