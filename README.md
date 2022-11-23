@@ -2,7 +2,7 @@
 
 <section style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 5px;">
 <div style="text-indent: 50px; padding: 20px; max-width: 415px; min-width: 300px;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate in UOC-Sri Lanka. Currently I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that I generally developing my <b>Application Development</b> & <b>Web Designing</b> skills that mostly based on GUI or UI Designs.</div>
-<picture>
+<picture style="margin-top: 5px;">
 <source 
     srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
