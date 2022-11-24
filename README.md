@@ -47,13 +47,13 @@
 </section>
 <br/>
 
-- Scince I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I really appriciate if you willing to collaborate with me.
+- Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I really appreciate it if you are willing to collaborate with me.
 
 <div style="display: flex; align-items: center; justify-content: center; max-width: 1000px;"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-lakshan&theme=vue"/></div>
 
 <p style="marign: 20px 0px;">&nbsp;</p>
 
-## 🗃️ Here are few of My Recent Projects
+## 🗃️ Here are some of My Recent Projects
 
 <section style="display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: auto; align-content: center; justify-items: center; grid-gap: 2px; margin-top: 10px; max-width: 1000px;">
 <a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
@@ -101,13 +101,14 @@
 
 <section style="display: flex; align-items: center; justify-content: space-around; flex-direction: row; flex-wrap: wrap; margin-top: 10px; max-width: 1000px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan"/>
+<br/>
 <ul style="padding: 20px; max-width:400px; margin-right: 20px;">
 <span style="font-size: large;">•&nbsp;</span>⚡ Look me up on ...<ul>
     <li>
         <a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://dev.to/mlakshan" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" style="border-radius: 3px;"/></a><a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://leetcode.com/M-lakshan/" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 3px;"/></a>
     </li>
     <li>
-        <a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://www.freecodecamp.org/fcca050b099-3776-4f43-9963-05080cfff618" style="dtext-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="border-radius: 3px;"/></a><a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://codepen.io/m-lakshan" style="text-decoration: none; color: #FFF; " target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 3px;"/></a>
+        <a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://www.freecodecamp.org/fcca050b099-3776-4f43-9963-05080cfff618" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="border-radius: 3px;"/></a><a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://codepen.io/m-lakshan" style="text-decoration: none; color: #FFF; " target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 3px;"/></a>
     </li>
     <li style="margin: 5px 2px 8px 0px;">
         <a style="display: flex; align-items: center; text-decoration: none; color: #FFF; padding: 5px 8px; background: #F1F1FF; color: #111; border-radius: 3px; width: fit-content;" href="https://www.frontendmentor.io/profile/M-lakshan" target="_blank"><!--<img src="" style="border-radius: 3px;"/>-->Frontend Mentor</a>
@@ -126,5 +127,3 @@
     <a href="https://www.linkedin.com/in/e-m-lakshan-190212216/?originalSubdomain=lk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </div> -->
-
-
