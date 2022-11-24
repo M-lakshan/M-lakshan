@@ -74,8 +74,7 @@
 ![GitHub top language](https://img.shields.io/github/languages/top/M-lakshan/web_game_Tic-Tac-Toe?style=plastic)
 ![GitHub last commit](https://img.shields.io/github/last-commit/M-lakshan/web_game_Tic-Tac-Toe?color=red&style=plastic)
 </div>
-</a>
-<a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
+</a><a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
 <picture>
   <source 
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=tokyonight"
@@ -97,7 +96,7 @@
 
 <p style="marign: 20px 0px;">&nbsp;</p>
 
-##❕About Me
+## ❕ About Me
 
 <section style="display: flex; align-items: center; justify-content: space-around; flex-direction: row; flex-wrap: wrap; margin-top: 10px; max-width: 1000px;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan"/>
