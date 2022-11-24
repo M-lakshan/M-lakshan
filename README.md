@@ -1,7 +1,7 @@
 ## Yellowh, I'm Lakshan 👋😃
 
 <section style="display: flex; align-items: center; flex-wrap: wrap; margin-bottom: 5px;">
-<div style="text-indent: 50px; padding: 20px; max-width: 415px; min-width: 300px;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that, I generally focused on developing my <b>Web</b> or <b>Application Development</b> skills that mostly based on GUI or UI Designs.</div>
+<div style="text-indent: 50px; padding: 20px; max-width: 375px; min-width: 300px;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that, I generally focused on developing my <b>Web</b> or <b>Application Development</b> skills that mostly based on GUI or UI Designs.</div>
 <br/>
 <picture>
 <source 
