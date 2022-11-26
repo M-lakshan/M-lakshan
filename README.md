@@ -23,7 +23,7 @@
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=light&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" min-width="450px" align="left" margin="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&hide_border=true"/>
+  <img width="48%" min-width="450px" align="right" margin="10px" src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&hide_border=true"/>
 </picture>
 
 <br/>
@@ -116,7 +116,7 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/M-lakshan/web_app_JS_Calculator?color=red&style=plastic) -->
 </a>
 <br/>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/><br/>
 <br/>
 
 ## ❕ About Me
