@@ -48,7 +48,7 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="350px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
 </picture>
 <br/>
 
