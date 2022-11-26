@@ -50,7 +50,7 @@
 />
 <img align="right" width="420px" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
 </picture>
-<br/><br/>><br/>
+<br/><br/><br/>
 
 - <p width="47%">👯 I look forward to ...<br/>
     - Create more JS, React-Native, JAVA applications<br/>
