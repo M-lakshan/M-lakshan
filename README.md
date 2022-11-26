@@ -51,14 +51,13 @@
 </picture>
 <br/>
 <br/>
+<br/>
 
 - <p width="47%">👯 I look forward to ...<br/>
     - Create more JS, React-Native, JAVA applications<br/>
     - Follow UI-UX inspirations<br/>
     - Follow problem-solving in OOP basis
     </p>
-<br/>
-<br/>
 <br/>
 
 - Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I really appreciate it if you are willing to collaborate with me.
