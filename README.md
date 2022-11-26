@@ -85,7 +85,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" min-width="450px" align="left" margin="10px" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
+  <img width="48%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
     
 </picture>
 
@@ -105,7 +105,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" min-width="450px" align="left" margin="10px" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
+  <img width="48%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
 </picture>
 
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/M-lakshan/web_app_JS_Calculator?style=plastic)
