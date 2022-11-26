@@ -55,11 +55,11 @@
 - <p width="47%">👯 I look forward to ...<br/>
     - Create more JS, React-Native, JAVA applications<br/>
     - Follow UI-UX inspirations<br/>
-    - Follow problem-solving in OOP basis
+    - Follow problem-solving on OOP basis
     </p>
 <br/><br/>
 
-- Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I really appreciate it if you are willing to collaborate with me.
+- Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I appreciate it if you are willing to collaborate with me.
 
 <picture>
 <source 
@@ -86,7 +86,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
+  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
     
 </picture>
 
@@ -106,7 +106,7 @@
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="48%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
+  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
 </picture>
 
 <!-- ![GitHub repo size](https://img.shields.io/github/repo-size/M-lakshan/web_app_JS_Calculator?style=plastic)
