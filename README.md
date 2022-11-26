@@ -37,7 +37,6 @@
 - 🔭 Additionally, I'm focusing on doing the **Back-End** development for my designs.
 
 - 🌱Also, I’m still learning&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img style="border-radius: 50%; width: 28px; height: 26px;" src="https://img.shields.io/badge/C%23-239120?&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius: 3px;"/>&nbsp;+&nbsp;<b>MVC-Approach</b>&nbsp;for web development.
-<br/>
 
 <picture>
 <source 
@@ -48,8 +47,9 @@
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
 />
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
+<img width="420px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
 </picture>
+<br/>
 <br/>
 
 - <p width="47%">👯 I look forward to ...<br/>
