@@ -57,7 +57,7 @@
     - Follow UI-UX inspirations<br/>
     - Follow problem-solving in OOP basis
     </p>
-<br/><br/>
+<br/><br/><br/>
 
 - Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I really appreciate it if you are willing to collaborate with me.
 
