@@ -50,14 +50,14 @@
 />
 <img align="right" width="420px" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
 </picture>
-<br/><br/>
+<br/><br/>><br/>
 
 - <p width="47%">👯 I look forward to ...<br/>
     - Create more JS, React-Native, JAVA applications<br/>
     - Follow UI-UX inspirations<br/>
     - Follow problem-solving in OOP basis
     </p>
-<br/><br/><br/>
+<br/>
 
 - Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I really appreciate it if you are willing to collaborate with me.
 
