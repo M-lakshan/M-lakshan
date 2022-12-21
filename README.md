@@ -74,7 +74,7 @@
 </picture>
 <br/>
 
-## 🗃️ Here are some of My Recent Projects
+## 🗃️ Recent Projects
 
 <a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
 <picture>
