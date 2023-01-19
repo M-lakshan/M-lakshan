@@ -127,9 +127,9 @@
     </ul>
   </p>
 
-- 📫 Reach me via <a align="right" href="www.linkedin.com/in/lakshan-edirisinghe-190212216" target="_blank">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--
+<!-- - 📫 Reach me via <a align="right" href="www.linkedin.com/in/lakshan-edirisinghe-190212216" target="_blank">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 - 📫 Reach me via <a align="right" href="https://www.linkedin.com/in/e-m-lakshan-190212216/?originalSubdomain=lk" target="_blank">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<!--
 <div style="display: flex; align-items: center; justify-content: center; max-width: 400px; padding-left: 50px; padding-top: 10px;">
     <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
     <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
