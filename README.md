@@ -108,6 +108,11 @@
   />
   <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
 </picture>
+<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/M-lakshan/web_app_JS_Calculator?style=plastic)
+![GitHub language count](https://img.shields.io/github/languages/count/M-lakshan/web_app_JS_Calculator?style=plastic)
+![GitHub top language](https://img.shields.io/github/languages/top/M-lakshan/web_app_JS_Calculator?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/M-lakshan/web_app_JS_Calculator?color=red&style=plastic) -->
+</a>
 
 <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
 <picture>
@@ -121,11 +126,6 @@
   />
   <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=simple-task-handler&show_owner=true"/>
 </picture>
-
-<!-- ![GitHub repo size](https://img.shields.io/github/repo-size/M-lakshan/web_app_JS_Calculator?style=plastic)
-![GitHub language count](https://img.shields.io/github/languages/count/M-lakshan/web_app_JS_Calculator?style=plastic)
-![GitHub top language](https://img.shields.io/github/languages/top/M-lakshan/web_app_JS_Calculator?style=plastic)
-![GitHub last commit](https://img.shields.io/github/last-commit/M-lakshan/web_app_JS_Calculator?color=red&style=plastic) -->
 </a>
 <br/>
 <br/><br/><br/><br/><br/><br/>
