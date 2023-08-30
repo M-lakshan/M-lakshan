@@ -123,8 +123,7 @@
 </a>
 
 <br/>
-<br/><br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/><br/>
+<br/><br/><br/><br/><br/>
 <br/>
 
 ## ❕ About Me
