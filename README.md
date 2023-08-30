@@ -104,6 +104,7 @@
   <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
 </picture>
 </a>
+
 <br/>
 <br/><br/><br/><br/><br/><br/>
 <br/>
@@ -123,6 +124,7 @@
 </a>
 
 <br/>
+<br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/>
 <br/>
 
