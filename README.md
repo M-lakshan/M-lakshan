@@ -3,7 +3,7 @@
 <div style="text-align: right;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that, I generally focused on developing my <b>Web</b> or <b>Application Development</b> skills primarily based on GUI or UI Designs.</div>
 <br/>
 <picture>
-<source 
+<source
     srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)"
 />
@@ -15,7 +15,7 @@
 </picture>  
 
 <picture>
-  <source 
+  <source
     srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)"
   />
@@ -40,7 +40,7 @@
 <br/>
 
 <picture>
-<source 
+<source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)"
 />
@@ -57,12 +57,13 @@
     - Follow UI-UX inspirations<br/>
     - Follow problem-solving on OOP basis
     </p>
+
 <br/><br/>
 
 - Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I appreciate it if you are willing to collaborate with me.
 
 <picture>
-<source 
+<source
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-lakshan&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)"
 />
@@ -78,7 +79,7 @@
 
 <a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
 <picture>
-  <source 
+  <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
@@ -92,7 +93,7 @@
 
 <a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
 <picture>
-  <source 
+  <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
@@ -104,10 +105,12 @@
 </picture>
 </a>
 <br/>
+<br/><br/><br/><br/><br/><br/>
+<br/>
 
 <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
 <picture>
-  <source 
+  <source
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=tokyonight"
     media="(prefers-color-scheme: dark)"
   />
@@ -115,12 +118,12 @@
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="47%" align="right" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=simple-task-handler&show_owner=true"/>
+  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=simple-task-handler&show_owner=true"/>
 </picture>
 </a>
-<br/>
 
 <br/>
+<br/><br/><br/><br/><br/><br/>
 <br/><br/><br/><br/><br/><br/>
 <br/>
 
