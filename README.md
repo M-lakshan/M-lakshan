@@ -106,8 +106,6 @@
 </a>
 
 <br/>
-<br/><br/><br/><br/><br/><br/>
-<br/>
 
 <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
 <picture>
