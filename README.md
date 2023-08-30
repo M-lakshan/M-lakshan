@@ -124,9 +124,9 @@
     srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=simple-task-handler&show_owner=true"/>
+  <img width="47%" align="right" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=simple-task-handler&show_owner=true"/>
 </picture>
-</a>/
+</a>
 <br/>
 <br/><br/><br/><br/><br/><br/>
 <br/>
