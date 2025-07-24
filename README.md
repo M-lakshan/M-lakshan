@@ -40,7 +40,7 @@
 <br/>
 
 <div style="display: flex; flex-direction: row; justify-content: space-arround; align-items: center; flex-wrap: wrap;">
-  <ul style="margin-right: 30px; max-width: 45%">
+  <ul align="left" width="47%" style="margin-right: 30px; max-width: 45%">
     <li>👯 I look forward to ...
       <ul>
         <li>Create more JS, React Native, and Java applications</li>
@@ -60,7 +60,7 @@
       srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img src="https://github-readme-stats.vercel.app/api/ top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
+    <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/ top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
   </picture>
 </div>
 
@@ -83,8 +83,6 @@
 ## 🗃️ Archives
 
 <h4 style="width: 100%; text-align: center; font-style: oblique">« Early-Stage Developments »</h4>
-
-<br/>
 
 <a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
   <picture>
@@ -109,10 +107,11 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="right" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
+  <img align="left" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
   </picture>
 </a>
 
+<br/>
 <br/>
 
 <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
@@ -143,7 +142,9 @@
 </a>
 
 <br/>
+<br/>
 
+<a href="https://github.com/M-lakshan/REACT-Calendar" target="_blank">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=tokyonight"
@@ -155,6 +156,8 @@
     />
   <img align="left" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
   </picture>
+</a>
+<a href="https://github.com/M-lakshan/REACT-Markdown_Previewer" target="_blank">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=tokyonight"
@@ -166,9 +169,12 @@
     />
   <img align="right" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
   </picture>
+</a>
 
 <br/>
+<br/>
 
+<a href="https://github.com/M-lakshan/REACT-Simple_Drum_Machine" target="_blank">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=tokyonight"
@@ -180,6 +186,8 @@
     />
   <img align="left" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
   </picture>
+</a>
+<a href="https://github.com/M-lakshan/REACT-Simple_Timer" target="_blank">
   <picture>
     <source
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=tokyonight"
@@ -191,6 +199,7 @@
     />
     <img width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
   </picture>
+</a>
 
 <h4 style="width: 100%; text-align: center; font-style: oblique">« Highlights from Recent Years »</h4>
 
