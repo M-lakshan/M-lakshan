@@ -29,6 +29,7 @@
 
 <br/>
 <br/>
+<br/>
 
 ## 🎢 My Progress
 
@@ -60,6 +61,7 @@
   <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/ top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
 </picture>
 
+<br/>
 <br/>
 <br/>
 
@@ -110,6 +112,7 @@
 
 <br/>
 <br/>
+<br/>
 
 <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
   <picture>
@@ -140,6 +143,7 @@
 
 <br/>
 <br/>
+<br/>
 
 <a href="https://github.com/M-lakshan/REACT-Calendar" target="_blank">
   <picture>
@@ -168,6 +172,7 @@
   </picture>
 </a>
 
+<br/>
 <br/>
 <br/>
 
