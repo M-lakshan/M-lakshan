@@ -4,36 +4,29 @@
   Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <strong>Web Development</strong> or <strong>Software Engineering</strong>. Besides that, I primarilly focused on developing my <strong>Web</strong> or <strong>Application Development</strong> skills pwith an emphasis on GUI and general UI designs.
 </p>
 
-<table>
-  <tr>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=tokyonight&hide_border=true"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=light&hide_border=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&hide_border=true"/>
-      </picture>
-    </td>
-    <td>
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight&hide_border=true"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=light&hide_border=true"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&hide_border=true"/>
-      </picture>  
-    </td>
-  </tr>
-</table>
+<picture>
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=light&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&hide_border=true"/>
+</picture>
+<br/>
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=light&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&hide_border=true"/>
+</picture>  
 
 <div style="display: flex; flex-direction: row; justify-content: space-arround; align-items: center; flex-wrap: wrap;">
 
@@ -91,136 +84,121 @@
 
 <h4 style="width: 100%; text-align: center; font-style: oblique">« Early-Stage Developments »</h4>
 
-<table>
-  <tr>
-    <td>
-      <a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-        <img style="width: 50%; min-width: 400px; margin: 10px; align-self: flex-end;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
-      <picture>
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=tokyonight"
-          media="(prefers-color-scheme: dark)"
-        />
-        <source
-          srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
-          media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        />
-        <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
-      </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/M-lakshan/JavaScript-Cash_Register" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/M-lakshan/REACT-Calendar" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/M-lakshan/REACT-Markdown_Previewer" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <a href="https://github.com/M-lakshan/REACT-Simple_Drum_Machine" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-    <td>
-      <a href="https://github.com/M-lakshan/REACT-Simple_Timer" target="_blank">
-        <picture>
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=tokyonight"
-            media="(prefers-color-scheme: dark)"
-          />
-          <source
-            srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=light"
-            media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-          />
-          <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
-        </picture>
-      </a>
-    </td>
-  </tr>
-</table>
+<br/>
+
+<a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+  <img style="width: 50%; min-width: 400px; margin: 10px; align-self: flex-end;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
+  </picture>
+</a>
+  <a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
+  </picture>
+</a>
+<a href="https://github.com/M-lakshan/JavaScript-Cash_Register" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/M-lakshan/REACT-Calendar" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
+  </picture>
+</a>
+<a href="https://github.com/M-lakshan/REACT-Markdown_Previewer" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+  </picture>
+</a>
+
+<br/>
+
+<a href="https://github.com/M-lakshan/REACT-Simple_Drum_Machine" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
+  </picture>
+</a>
+<a href="https://github.com/M-lakshan/REACT-Simple_Timer" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
+  </picture>
+</a>
 
 <h4 style="width: 100%; text-align: center; font-style: oblique">« Highlights from Recent Years »</h4>
 
