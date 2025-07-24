@@ -1,36 +1,34 @@
 # Yellowh, I'm Lakshan 👋😃
 
-<div style="text-align: right;">Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <b>Web Development</b> or <b>Software Engineering</b>. Besides that, I generally focused on developing my <b>Web</b> or <b>Application Development</b> skills primarily based on GUI or UI Designs.</div>
-<br/>
-<picture>
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-/>
-<source
-    srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=light&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="left" width="47%" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&hide_border=true"/>
-</picture>  
+<p>
+  Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <strong>Web Development</strong> or <strong>Software Engineering</strong>. Besides that, I primarilly focused on developing my <strong>Web</strong> or <strong>Application Development</strong> skills pwith an emphasis on GUI and general UI designs.
+</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=light&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="left" width="47%" style="margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&hide_border=true"/>
-</picture>
+<div style="display: flex; flex-direction: row; justify-content: space-arround; align-items: center; flex-wrap: wrap;">
+  <picture>
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&theme=light&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-streak-stats.herokuapp.com/?user=M-lakshan&hide_border=true"/>
+  </picture>
 
-<br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&theme=light&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&hide_border=true"/>
+  </picture>  
+</div>
 
 ## 🎢 My Progress
 
@@ -39,113 +37,187 @@
 - 🌱Also, I’m still learning&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img style="border-radius: 50%; width: 28px; height: 26px;" src="https://img.shields.io/badge/C%23-239120?&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius: 3px;"/>&nbsp;+&nbsp;<b>MVC-Approach</b>&nbsp;for web development.
 <br/>
 
+<div style="display: flex; flex-direction: row; justify-content: space-arround; align-items: center; flex-wrap: wrap;">
+  <ul style="margin-right: 30px; max-width: 45%">
+    <li>👯 I look forward to ...
+      <ul>
+        <li>Create more JS, React Native, and Java applications</li>
+        <li>Follow UI/UX best practices and inspiration</li>
+        <li>Tackle problems using an Object-Oriented approach</li>
+      </ul>
+    </li>
+    <br/>
+    <li>Since I'm still being a newbie to the industry 🤔 I’m seeking help for my <strong>JAVA</strong> & <strong>React</strong> software developments. I appreciate it if you are willing to collaborate with me.</li>
+  </ul>
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img src="https://github-readme-stats.vercel.app/api/ top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
+  </picture>
+</div>
+
+<br/>
+
 <picture>
-<source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-/>
-<source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img align="right" width="420px" style="margin: 10px;" src="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/><br/>
-</picture>
-<br/><br/>
-
-- <p width="47%">👯 I look forward to ...<br/>
-    - Create more JS, React-Native, JAVA applications<br/>
-    - Follow UI-UX inspirations<br/>
-    - Follow problem-solving on OOP basis
-    </p>
-
-<br/><br/>
-
-- Since I'm still being a newbie to the industry 🤔 I’m seeking help for my **JAVA** & **React** software developments. I appreciate it if you are willing to collaborate with me.
-
-<picture>
-<source
+  <source
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-lakshan&theme=tokyonight&hide_border=true"
     media="(prefers-color-scheme: dark)"
-/>
-<source
+  />
+  <source
     srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-lakshan&theme=vue&hide_border=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-/>
-<img width="100%" align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-lakshan&hide_border=true"/>
+  />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=M-lakshan&hide_border=true"/>
 </picture>
-<br/>
-
-## 🗃️ Recent Projects
-
-<a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
-</picture>
-</a>
-
-<a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
-</picture>
-</a>
-
-<br/>
-<br/><br/><br/><br/><br/>
-<br/><br/><br/><br/><br/>
-<br/>
-
-<a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=tokyonight"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img width="47%" align="left" style="min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&&show_icons=true&repo=simple-task-handler&show_owner=true"/>
-</picture>
-</a>
 
 <br/>
 <br/>
-<br/><br/><br/><br/><br/>
-<br/>
+
+## 🗃️ Archives
+
+<h4 style="width: 100%; text-align: center; font-style: oblique">« Early-Stage Developments »</h4>
+
+<div style="display: grid; grid-template-columns: max-content max-content;">
+  <a href="https://github.com/M-lakshan/web_game_Tic-Tac-Toe" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+    <img style="width: 50%; min-width: 400px; margin: 10px; align-self: flex-end;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
+  <picture>
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=tokyonight"
+      media="(prefers-color-scheme: dark)"
+    />
+    <source
+      srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    />
+    <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
+  </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/simple-task-handler" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/JavaScript-Cash_Register" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/REACT-Calendar" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/REACT-Markdown_Previewer" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/REACT-Simple_Drum_Machine" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
+    </picture>
+  </a>
+  <a href="https://github.com/M-lakshan/REACT-Simple_Timer" target="_blank">
+    <picture>
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=tokyonight"
+        media="(prefers-color-scheme: dark)"
+      />
+      <source
+        srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=light"
+        media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      />
+      <img style="width: 50%; min-width: 400px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
+    </picture>
+  </a>
+</div>
+
+<h4 style="width: 100%; text-align: center; font-style: oblique">« Highlights from Recent Years »</h4>
+
+<ul style="list-style: none;">
+  <li>⁜&nbsp;)&nbsp;&nbsp;Full-Scale Shopping System & Management Platform | Application using .NET & REACT</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Small-Scale Event Booking Management Platform | UI Design using Figma</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Full-Scale Car Pooling System | Application using .NET</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Full-Scale Media Cloud Concept | Prototype using Figma</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Data Predict Application for a Real-Life Business | Application using .NET</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Multipage Full-Scale Portfolio Website for a Conceptual Business | Website using PHP</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Full-Scale Prototype Oriented Website Design | Interface Design using Figma</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Single-Page Full-Scale Web Application for Vote Capture | Webpage using REACT</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Full-Scale Windows Forms Application | Application using .NET</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Small-Scale Task Scheduling Application | Application using REACT</li>
+  <li>⁜&nbsp;)&nbsp;&nbsp;Small-Scale Multipage Shopping Website | Website using PHP</li>
+</ul>
+
 <br/>
 
 ## ❕ About Me
 
 - <p>⚡ Look me up on ...<br/><ul>
     <li><a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://dev.to/mlakshan" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" style="border-radius: 3px;"/></a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://leetcode.com/M-lakshan/" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 3px;"/></a></li>
-    <li><a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://www.freecodecamp.org/fcca050b099-3776-4f43-9963-05080cfff618" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="border-radius: 3px;"/></a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://codepen.io/m-lakshan" style="text-decoration: none; color: #FFF; " target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 3px;"/></a></li>
+    <li><a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://www.freecodecamp.org/fcca050b099-3776-4f43-9963-05080cfff618" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="border-radius: 3px;"/></a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://codepen.io/m-lakshan" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 3px;"/></a></li>
     <li style="margin: 5px 2px 8px 0px;"><a style="display: flex; align-items: center; text-decoration: none; color: #FFF; padding: 5px 8px; background: #F1F1FF; color: #111; border-radius: 3px; width: fit-content;" href="https://www.frontendmentor.io/profile/M-lakshan" target="_blank"><!--<img src="" style="border-radius: 3px;"/>-->Frontend Mentor</a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://stackoverflow.com/users/16220623/lakshan?tab=profile" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="border-radius: 3px;"/></a></li>
     </ul>
   </p>
 
-<!-- - 📫 Reach me via <a align="right" href="www.linkedin.com/in/lakshan-edirisinghe-190212216" target="_blank">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
-- 📫 Reach me via <a align="right" href="https://www.linkedin.com/in/lakshan-edirisinghe-190212216/?originalSubdomain=lk" target="_blank">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<!--
-<div style="display: flex; align-items: center; justify-content: center; max-width: 400px; padding-left: 50px; padding-top: 10px;">
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/e-m-lakshan-190212216/?originalSubdomain=lk" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-    <a href="" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-</div>
--->
+- <p style="display: flex; align-items: center; flex-direction: row; height: 40px;">
+    <span style="display: inline-block; max-height: max-content;">📫 Reach me via&nbsp;</span>
+    <a href="https://www.linkedin.com/in/lakshan-edirisinghe-190212216/?originalSubdomain=lk" target="_blank">&nbsp;<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  </p>
