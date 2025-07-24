@@ -41,6 +41,18 @@
 - 🌱Also, I’m still learning&nbsp;<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img style="border-radius: 50%; width: 28px; height: 26px;" src="https://img.shields.io/badge/C%23-239120?&logoColor=white" style="border-radius: 3px;"/>&nbsp;,&nbsp;<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" style="border-radius: 3px;"/>&nbsp;+&nbsp;<b>MVC-Approach</b>&nbsp;for web development.
 <br/>
 
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/ top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
+</picture>
+
 <ul align="left" width="47%" style="margin-right: 30px; max-width: 45%">
   <li>👯 I look forward to ...
     <ul>
@@ -54,22 +66,7 @@
 
 <p align="left" width="47%">Since I'm still being a newbie to the industry 🤔 I’m seeking help for my <strong>JAVA</strong> & <strong>React</strong> software developments. I appreciate it if you are willing to collaborate with me.</p>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=light&hide_border=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/ top-langs/?username=M-lakshan&langs_count=8&layout=compact&hide_border=true"/>
-</picture>
-
-<br/>
 <br/><br/>
-<br/><br/>
-<br/>
 
 <picture>
   <source
