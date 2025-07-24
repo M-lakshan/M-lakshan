@@ -28,8 +28,11 @@
 </picture>  
 
 <br/>
+<br/><br/>
+<br/><br/>
+<br/><br/>
 <br/>
-<br/>
+
 
 ## 🎢 My Progress
 
@@ -62,7 +65,8 @@
 </picture>
 
 <br/>
-<br/>
+<br/><br/>
+<br/><br/>
 <br/>
 
 <picture>
