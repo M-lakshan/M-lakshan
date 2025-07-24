@@ -51,7 +51,9 @@
   </li>
   <br/>
 </ul>
+
 <p align="left" width="47%">Since I'm still being a newbie to the industry 🤔 I’m seeking help for my <strong>JAVA</strong> & <strong>React</strong> software developments. I appreciate it if you are willing to collaborate with me.</p>
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
