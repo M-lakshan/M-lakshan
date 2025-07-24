@@ -27,9 +27,8 @@
   <img align="right" width="47%" style="min-width: 380px; max-width: 600px; margin: 10px;" src="https://github-readme-stats.vercel.app/api?username=M-lakshan&show_icons=true&hide_border=true"/>
 </picture>  
 
-<div style="display: flex; flex-direction: row; justify-content: space-arround; align-items: center; flex-wrap: wrap;">
-
-</div>
+<br/>
+<br/>
 
 ## 🎢 My Progress
 
@@ -47,8 +46,8 @@
     </ul>
   </li>
   <br/>
-  <li>Since I'm still being a newbie to the industry 🤔 I’m seeking help for my <strong>JAVA</strong> & <strong>React</strong> software developments. I appreciate it if you are willing to collaborate with me.</li>
 </ul>
+<p align="left" width="47%">Since I'm still being a newbie to the industry 🤔 I’m seeking help for my <strong>JAVA</strong> & <strong>React</strong> software developments. I appreciate it if you are willing to collaborate with me.</p>
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=M-lakshan&langs_count=8&layout=compact&theme=tokyonight&hide_border=true"
