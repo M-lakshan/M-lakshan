@@ -1,7 +1,7 @@
 # Yellowh, I'm Lakshan 👋😃
 
 <p>
-  Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <strong>Web Development</strong> or <strong>Software Engineering</strong>. Besides that, I primarilly focused on developing my <strong>Web</strong> or <strong>Application Development</strong> skills pwith an emphasis on GUI and general UI designs.
+  Welcome to my GitHub profile. I'm a self-thought Programmer & currently an undergraduate at UOC-Sri Lanka. I'd spared my free time to learn something new related to <strong>Web Development</strong> or <strong>Software Engineering</strong>. Besides that, I primarily focused on developing my <strong>Web</strong> or <strong>Application Development</strong> skills with an emphasis on GUI and general UI designs.
 </p>
 
 <picture>
