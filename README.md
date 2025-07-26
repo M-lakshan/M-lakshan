@@ -96,7 +96,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_game_Tic-Tac-Toe&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
+  <img align="left" width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_game_Tic-Tac-Toe&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/web_app_JS_Calculator" target="_blank">
@@ -109,7 +109,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=web_app_JS_Calculator&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
+  <img width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=web_app_JS_Calculator&show_owner=true"/>
   </picture>
 </a>
 
@@ -127,7 +127,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
+  <img align="left" width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/JavaScript-Cash_Register" target="_blank">
@@ -140,7 +140,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+  <img width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
   </picture>
 </a>
 
@@ -158,7 +158,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
+  <img align="left" width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/REACT-Markdown_Previewer" target="_blank">
@@ -171,7 +171,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+  <img width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
   </picture>
 </a>
 
@@ -189,7 +189,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
+  <img align="left" width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/REACT-Simple_Timer" target="_blank">
@@ -202,7 +202,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="47%" margin="10px 5px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
+    <img width="47%" margin="2px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
   </picture>
 </a>
 
@@ -229,7 +229,7 @@
 - <p>⚡ Look me up on ...<br/><ul>
     <li><a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://dev.to/mlakshan" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" style="border-radius: 3px;"/></a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://leetcode.com/M-lakshan/" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" style="border-radius: 3px;"/></a></li>
     <li><a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://www.freecodecamp.org/fcca050b099-3776-4f43-9963-05080cfff618" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/freecodecamp-27273D?style=for-the-badge&logo=freecodecamp&logoColor=white" style="border-radius: 3px;"/></a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;" href="https://codepen.io/m-lakshan" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" style="border-radius: 3px;"/></a></li>
-    <li style="margin: 5px 2px 8px 0px;"><a style="display: flex; align-items: center; text-decoration: none; color: #FFF; padding: 5px 8px; background: #F1F1FF; color: #111; border-radius: 3px; width: fit-content;" href="https://www.frontendmentor.io/profile/M-lakshan" target="_blank"><!--<img src="" style="border-radius: 3px;"/>-->Frontend Mentor</a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://stackoverflow.com/users/16220623/lakshan?tab=profile" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="border-radius: 3px;"/></a></li>
+    <li style="margin: 2px 8px 0px;"><a style="display: flex; align-items: center; text-decoration: none; color: #FFF; padding: 5px 8px; background: #F1F1FF; color: #111; border-radius: 3px; width: fit-content;" href="https://www.frontendmentor.io/profile/M-lakshan" target="_blank"><!--<img src="" style="border-radius: 3px;"/>-->Frontend Mentor</a>&nbsp;<a style="display: flex; align-items: center; flex-direction: row; height: 40px;"  href="https://stackoverflow.com/users/16220623/lakshan?tab=profile" style="text-decoration: none; color: #FFF;" target="_blank"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" style="border-radius: 3px;"/></a></li>
     </ul>
   </p>
 
