@@ -127,7 +127,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=simple-task-handler&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
+  <img align="left" width="47%" margin="10px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=simple-task-handler&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/JavaScript-Cash_Register" target="_blank">
@@ -140,7 +140,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=JavaScript-Cash_Register&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="right" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+  <img width="47%" margin="10px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
   </picture>
 </a>
 
@@ -158,7 +158,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Calendar&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
+  <img align="left" width="47%" margin="10px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Calendar&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/REACT-Markdown_Previewer" target="_blank">
@@ -171,7 +171,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Markdown_Previewer&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="right" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
+  <img width="47%" margin="10px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=JavaScript-Cash_Register&show_owner=true"/>
   </picture>
 </a>
 
@@ -189,7 +189,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Drum_Machine&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-  <img align="left" width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
+  <img align="left" width="47%" margin="10px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Drum_Machine&show_owner=true"/>
   </picture>
 </a>
 <a href="https://github.com/M-lakshan/REACT-Simple_Timer" target="_blank">
@@ -202,7 +202,7 @@
       srcset="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&repo=REACT-Simple_Timer&show_owner=true&show_icons=true&theme=light"
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
     />
-    <img width="47%" style="min-width: 350px; margin: 10px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
+    <img width="47%" margin="10px" style="min-width: 350px;" src="https://github-readme-stats.vercel.app/api/pin?username=M-lakshan&show_icons=true&repo=REACT-Simple_Timer&show_owner=true"/>
   </picture>
 </a>
 
